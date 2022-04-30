@@ -14,6 +14,13 @@ This  application is online consultation with the best doctors in Apollo, to buy
 2.Doctors, Pharmacy, lab test,covid-19 
 3.Using local storage for cart functionality to DOM
 
+# Tech stack
+HTML | CSS | Javascript | DOM
+
+# Deployment link:
+https://luxury-snickerdoodle-336461.netlify.app/
+
+
 # Refernce images:
 # Doctors page
 [![image](https://www.linkpicture.com/q/doctors-page.png)](https://www.linkpicture.com/view.php?img=LPic626ceddbad317204023256)
@@ -22,5 +29,5 @@ This  application is online consultation with the best doctors in Apollo, to buy
 ![s1](https://user-images.githubusercontent.com/97446064/164306679-5005836e-8b17-4360-9396-70d957a82b39.PNG)
 <!-- ![s2](https://user-images.githubusercontent.com/97446064/164306691-d0c3c111-09ed-4b87-a312-cf57e3e547a4.PNG) -->
 
-# Deployment link:
-https://luxury-snickerdoodle-336461.netlify.app/
+
+Happy Coding ..!!
